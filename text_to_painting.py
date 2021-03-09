@@ -1,3 +1,9 @@
+"""
+Author: Ajay Jain
+Generate SVG vector images from a caption
+Based on https://github.com/BachiLi/diffvg/blob/master/apps/painterly_rendering.py
+"""
+
 import argparse
 import math
 import os
