@@ -30,3 +30,15 @@ pip install git+https://github.com/openai/CLIP.git
 ```
 
 Then follow these [instructions to install diffvg](https://github.com/BachiLi/diffvg).
+
+## Citation
+```
+@software{jain21vector,
+  author = {Jain, Ajay},
+  title = {VectorAscent: Generate vector graphics from a textual description},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/ajayjain/VectorAscent}
+}
+``
