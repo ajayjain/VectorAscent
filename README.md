@@ -41,4 +41,4 @@ Then follow these [instructions to install diffvg](https://github.com/BachiLi/di
   journal = {GitHub repository},
   url = {https://github.com/ajayjain/VectorAscent}
 }
-``
+```
